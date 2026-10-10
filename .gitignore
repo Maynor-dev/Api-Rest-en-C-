@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.env
+.vs/
+bin/
+obj/
+*.user
